@@ -1,0 +1,2 @@
+chạy code mở Terminal:
+python first_tc.py
